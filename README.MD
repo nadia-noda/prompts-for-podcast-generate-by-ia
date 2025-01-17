@@ -21,7 +21,7 @@
 
 Projeto com o objetivo de gerar um podcast sobre financiamento habitacional de imóvel de empreendimento em construção utilizando ferramentas de IA através de prompts mais trabalhados, para escutar o podcast:
 
-<a href="https://github.com/nadia-noda/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20Sonhocasa.pdf" title="Listen to podcast now">📻 Clique aqui para ouvir</a>
+<a href="https://github.com/nadia-noda/prompts-for-podcast-generate-by-ia/raw/refs/heads/main/output/podcast.sonho.mp3" title="Listen to podcast now">📻 Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
