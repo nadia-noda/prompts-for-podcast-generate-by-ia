@@ -19,7 +19,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso na [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast sobre financiamento habitacional de imóvel de empreendimento em construção utilizando ferramentas de IA através de prompts mais trabalhado, para escutar o podcast:
+Projeto com o objetivo de gerar um podcast sobre financiamento habitacional de imóvel de empreendimento em construção utilizando ferramentas de IA através de prompts mais trabalhados, para escutar o podcast:
 
 <a href="https://github.com/nadia-noda/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20Sonhocasa.pdf" title="Listen to podcast now">📻 Clique aqui para ouvir</a>
 
