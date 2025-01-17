@@ -19,7 +19,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso na [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast sobre financiamento habitacional de imóvel de empreendimento em construção utilizando ferramentas de IA através de prompts mais trabalhado.
 
 ## 💻 Tecnologias utilizadas no projeto
 
